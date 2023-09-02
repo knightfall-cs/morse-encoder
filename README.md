@@ -24,7 +24,7 @@ Morse code has historical significance and is still relevant in various fields, 
 - Encode text into Morse code.
 - Play Morse code audio.
 - Adjust dot and dash timings.
-- Create custom WAV files.
+- Create custom WAV files with different frequency.
 
 
 ## Installation
