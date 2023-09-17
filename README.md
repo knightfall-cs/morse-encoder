@@ -36,7 +36,10 @@ Morse code has historical significance and is still relevant in various fields, 
     git clone https://github.com/knightfall-cs/morse-encoder.git
     cd morse-encoder
     ```
-3. Install the required dependencies using `pip install -r requirements.txt`.
+3. Install the required dependencies using:
+   ```bash
+   pip install -r requirements.txt`.
+   ```
 
 
 ## Usage
