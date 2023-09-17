@@ -37,8 +37,9 @@ Morse code has historical significance and is still relevant in various fields, 
     cd morse-encoder
     ```
 3. Install the required dependencies using:
+
    ```bash
-   pip install -r requirements.txt`.
+   pip install -r requirements.txt
    ```
 
 
