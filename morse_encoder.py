@@ -51,11 +51,11 @@ def main():
     print("Morse Code:", morse_code)
 
     play_sound = input("Do you want to play the sound? (Y/N): ")
-    if play_sound.lower() == 'y':
+    if play_sound.lower() in ['y', '']:
         play_morse_code(morse_code)
 
     run_again = input("Do you want to encode another text? (Y/N): ")
-    if run_again.lower() != 'y':
+    if run_again.lower()  not in ['y', '']:
         exit()
     else:
         main()
